@@ -1,4 +1,4 @@
-import Path  from 'path';
+import path  from 'path';
 import express from 'express';
 import dontenv from 'dotenv';
 dontenv.config();
