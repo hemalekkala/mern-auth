@@ -1,9 +1,9 @@
 {
   "name": "mern-auth",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN authentication system",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
